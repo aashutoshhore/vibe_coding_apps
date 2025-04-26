@@ -1,0 +1,6 @@
+Cust_id,Valid_from_dt,Valid_until_dt,first_name,last_name
+1,01-01-1900,31-12-9999,Andy,Muller
+2,01-01-1900,31-12-9999,Sandy,Bart
+3,01-01-1900,31-12-9999,Andreas,Name
+4,01-01-1900,31-12-9999,Bert,Buffet
+5,01-01-1900,31-12-9999,Rakesh,Jhun
